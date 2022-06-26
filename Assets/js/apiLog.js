@@ -37,7 +37,6 @@ function searchUpcomingMovies() {
 }
 
 function searchPopularMovie() {
-    adding movie
     const url = generateMovieDBUrl('/movie/popular');
     const render = renderMovies.bind({ title: 'Popular Movies' });
     requestMovies(url, render, handleGeneralError);
