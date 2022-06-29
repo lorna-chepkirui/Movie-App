@@ -164,5 +164,4 @@ searchMovie(INITIAL_SEARCH_VALUE);
 searchUpcomingMovies();
 getTopRatedMovies();
 searchPopularMovie();
-g
 getTrendingMovies();
