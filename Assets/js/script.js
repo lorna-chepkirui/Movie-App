@@ -163,6 +163,5 @@ document.onclick = function (event) {
 searchMovie(INITIAL_SEARCH_VALUE);
 searchUpcomingMovies();
 getTopRatedMovies();
-mod
 searchPopularMovie();
 getTrendingMovies();
